@@ -1,9 +1,9 @@
 <?
 
 	date_default_timezone_set('America/Detroit');
-	$footer = "Str8 Ballin' INC, LLC &copy; copyright " . date('Y');
+	$footer = "Caleb's Homework, LLC &copy; copyright " . date('Y');
 	$title = "Caleb's Web Page";
-	$h1 = "Welcome to my Homepage, Homie";
+	$h1 = "Welcome to my Homepage, Professor Andrews";
 	$name = "Caleb";
 	$origPara = "&emsp;&emsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat mollis dolor at bibendum. In congue maximus ligula, ut faucibus mi accumsan at. Vestibulum sagittis tortor eget dui ultricies, a vulputate lacus faucibus. Fusce aliquet bibendum erat, sed bibendum eros cursus eu. Nulla at neque rhoncus, ultricies odio at, accumsan elit. Proin in turpis eu leo dapibus pulvinar. Vivamus viverra massa ut enim fringilla ultricies. Donec in enim blandit, iaculis nulla quis, egestas elit. Nullam ut enim id erat bibendum finibus nec ac eros. Nulla malesuada ex facilisis ultrices rhoncus. Nullam in euismod nisl. Donec pulvinar ex sit amet aliquet egestas.";
 	$concatPara = "";
